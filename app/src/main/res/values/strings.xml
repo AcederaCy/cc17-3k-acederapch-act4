@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="tip_calculator">Tip Time!</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="service_quality">How was the Service?</string>
+    <string name="amazing">Amazing</string>
+    <string name="good">Good</string>
+    <string name="ok">OK</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="empty_bill_amount_message">Please enter a bill amount</string>
+    <string name="tip_amount">Tip amount: %s</string>
+    <string name="tip_amount_rounded">Tip amount: %s (%d%% rounded up)</string>
+</resources>
